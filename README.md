@@ -11,6 +11,7 @@ Don't forget to :star: the repo so that other's can find it easily
 ## Algorithms
 
 [AES](https://github.com/Ankit1598/crypto-algos/tree/main/AES)
+<br>
 ![](https://www.tutorialspoint.com/cryptography/images/aes_structure.jpg)
 
 
@@ -18,18 +19,21 @@ AES is an iterative rather than Feistel cipher. It is based on â€˜substitutionâ€
 
 
 [BlowFish](https://github.com/Ankit1598/crypto-algos/tree/main/BlowFish)
+<br>
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20190929214411/encryption-blowfish.jpg)
 Blowfish is an encryption technique designed by Bruce Schneier in 1993 as an alternative to DES Encryption Technique. It is significantly faster than DES and provides a good encryption rate with no effective cryptanalysis technique found to date. It is one of the first, secure block cyphers not subject to any patents and hence freely available for anyone to use.
 
 <br />
 
 [Columnar Transposition Cipher](https://github.com/Ankit1598/crypto-algos/tree/main/ColumnTranspositionCipher)
+<br>
 ![](https://media.geeksforgeeks.org/wp-content/uploads/columnar-transposition-cipher1.png)
 Given a plain-text message and a numeric key, cipher/de-cipher the given text using Columnar Transposition Cipher
 The Columnar Transposition Cipher is a form of transposition cipher just like Rail Fence Cipher. Columnar Transposition involves writing the plaintext out in rows, and then reading the ciphertext off in columns one by one.
 
 
 [RSA](https://github.com/Ankit1598/crypto-algos/tree/main/RSA)
+<br>
 ![](https://www.gatevidyalay.com/wp-content/uploads/2018/12/Asymmetric-Key-Cryptography-Diagram.png)
 
 RSA algorithm is a public key encryption technique and is considered as the most secure way of encryption. It was invented by Rivest, Shamir and Adleman in year 1978 and hence name RSA algorithm.
