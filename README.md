@@ -1,11 +1,62 @@
-# crypto-algos
-This is a repo for Cryptography Algorithms. Feel free to use and contribute in this repo.
+# **crypto-algos**💯
+[![GitHub issues](https://img.shields.io/github/issues/Ankit1598/crypto-algos?logo=Github&style=flat-square)](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Ankit1598/crypto-algos?color=brightgreen)](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Ankit1598/crypto-algos?color=%23ff69b4&style=flat-square)](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/network)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/Ankit1598/crypto-algos/issues)
 
-Update the existing folder or Make a new folder for new Algorithm
 
-Contributions to README files for each Algorithm is also appreciated :smile:
+This repository consists of some of the Cryptography Algorithms and it is a part of Hacktoberfest.
 
-Don't forget to :star: the repo so that other's can find it easily
+So if you are having any Cryptography Algorithm, all you need is to create a PR and I will try to merge it all.
+
+This is an amazing opportunity for beginners to exhibit their Cryptography skills and take part in one of the largest Open-Source event!
+
+## Contribution:
+**1.** Fork [this](https://github.com/Ankit1598/crypto-algos) repository.
+Click on the <a href="https://github.com/Ankit1598/crypto-algos"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/crypto-algos
+```
+
+**3.** Navigate to the project directory.
+
+```bash
+cd crypto-algos
+```
+
+**4.** Add new Crypto Algo, update the README with a brief and concise info about the same
+
+**5.** Stage your changes and commit
+
+```bash
+#Add changes to Index
+git add .
+
+#Commit to the local repo
+git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local commits to the remote repo.
+
+```bash
+git push 
+```
+
+**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [crypto-algos](https://github.com/Ankit1598/crypto-algos) project.
+## Issues:
+For major changes, you are welcome to open an issue to discuss what you would like to change. Enhancements will be appreciated.
+
+### Note:
+Do drop a ⭐if you like this initiative of mine.
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com//Ankit1598/crypto-algos)
+
+Check out my Github profile [here.](https://github.com/Ankit1598)
 
 
 ## Algorithms
